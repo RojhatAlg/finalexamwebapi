@@ -26,7 +26,7 @@ export function FrontPage() {
                 </ul>
             </div>
 
-            <h1> Back to the movies </h1>
+            <h1> Welcome to catering business </h1>
             <ul>
                 <li>
                     <Link to={"/list"}> List Menu </Link>

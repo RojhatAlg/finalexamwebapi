@@ -17,3 +17,5 @@ i tried to test the 2 tests in __test__ inside client but it didnt pass. but the
 ENDPOINTS:
 /api/users To list all users stored in database.
 /api/menus To list the current menu and all the dishes from the database.
+
+Azure link: 

@@ -18,4 +18,4 @@ ENDPOINTS:
 /api/users To list all users stored in database.
 /api/menus To list the current menu and all the dishes from the database.
 
-Azure link: 
+Azure link: Tried to deploy to Azure via github but got a bunch of errors and I also did not have enough time. I would miss the assignment..
